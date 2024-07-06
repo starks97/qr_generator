@@ -1,0 +1,1 @@
+fn(actix_web::web::Data<AppState>, actix_web::web::Query<QrQuery>) -> impl std::future::Future<Output = Result<HttpResponse, CustomError>> {get_all_qr_data}

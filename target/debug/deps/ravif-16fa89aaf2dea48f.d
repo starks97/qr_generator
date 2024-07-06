@@ -1,0 +1,8 @@
+/Users/jeffersonespinoza/Desktop/qr_prototype/target/debug/deps/libravif-16fa89aaf2dea48f.rmeta: /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/lib.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/av1encoder.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/error.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/dirtyalpha.rs
+
+/Users/jeffersonespinoza/Desktop/qr_prototype/target/debug/deps/ravif-16fa89aaf2dea48f.d: /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/lib.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/av1encoder.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/error.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/dirtyalpha.rs
+
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/lib.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/av1encoder.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/error.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.7/src/dirtyalpha.rs:

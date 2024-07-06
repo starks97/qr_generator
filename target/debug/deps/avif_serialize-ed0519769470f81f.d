@@ -1,0 +1,10 @@
+/Users/jeffersonespinoza/Desktop/qr_prototype/target/debug/deps/libavif_serialize-ed0519769470f81f.rmeta: /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/lib.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/boxes.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/constants.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/writer.rs
+
+/Users/jeffersonespinoza/Desktop/qr_prototype/target/debug/deps/libavif_serialize-ed0519769470f81f.rlib: /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/lib.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/boxes.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/constants.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/writer.rs
+
+/Users/jeffersonespinoza/Desktop/qr_prototype/target/debug/deps/avif_serialize-ed0519769470f81f.d: /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/lib.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/boxes.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/constants.rs /Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/writer.rs
+
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/lib.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/boxes.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/constants.rs:
+/Users/jeffersonespinoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/avif-serialize-0.8.1/src/writer.rs:
